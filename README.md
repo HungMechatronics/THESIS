@@ -13,4 +13,4 @@ Demonstation GIF:
 
 Simulation of shelf toppling condition:
 
-![me](https://github.com/HungMechatronics/THESIS/blob/main/image.png)
+![me](https://github.com/HungMechatronics/THESIS/blob/main/imageresize.png)
