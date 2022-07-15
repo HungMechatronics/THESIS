@@ -16,3 +16,7 @@ Simulation of shelf toppling condition:
 - The volume inside the surface is the safe zone in which shelf will not be toppled when AGV making a turn.
 
 ![me](https://github.com/HungMechatronics/THESIS/blob/main/imageresize.png)
+
+Video description with no sub:
+
+https://youtu.be/8TFQ77WnOL8
