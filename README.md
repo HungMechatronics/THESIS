@@ -5,6 +5,7 @@ Some features can be mentioned:
 - 8 AGVs with coutinously feedback odometry.
 - Auto & manual control for mission distributing.
 - Goods managements & pods position tracking.
+- Corruption avoidance ( uncompleted ).
 
 
 Demonstation GIF:
