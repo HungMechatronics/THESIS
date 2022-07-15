@@ -12,5 +12,6 @@ Demonstation GIF:
 ![me](https://github.com/HungMechatronics/THESIS/blob/main/Demo.gif)
 
 Simulation of shelf toppling condition:
+- The volume inside the surface is the safe zone in which shelf will not be toppled when AGV making a turn.
 
 ![me](https://github.com/HungMechatronics/THESIS/blob/main/imageresize.png)
